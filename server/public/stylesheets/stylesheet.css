@@ -1,3 +1,9 @@
-* {
-    background-color: deeppink;
+.indivnav {
+    color: darkgrey;
 }
+
+/* Tests to make sure the stylesheet loaded */
+* {
+    background-color: #ffc0cc;
+}
+
