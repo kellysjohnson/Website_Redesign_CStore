@@ -10,7 +10,7 @@ module.exports = function(grunt) {
             build: {
                 files: [
                     {
-                        src: "server/public/scripts/appRoute.js",
+                        src: "client/scripts/appRoute.js",
                         dest: "server/public/scripts/app.min.js"
                     }
                 ]

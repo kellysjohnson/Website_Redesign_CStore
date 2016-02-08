@@ -1,4 +1,6 @@
 //** Created by KellyShimkoJohnson on 2/7/16. With credit to my PrimeAcademy cohort who helped me to learn to write this code!**//
+//** special thanks to Vince Jones, Terry Gunderson, and Brian Aamodt **//
+
 
 //App is enabling angular functionality within App's scope
 var App = angular.module('App',['ngRoute', 'appControllers']);
