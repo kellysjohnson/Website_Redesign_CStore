@@ -21,6 +21,10 @@
     font-size: 20px;
 }
 
+.navBar {
+    background-color: deepskyblue;
+}
+
 .right-side {
     float: right;
     padding-right:20px;
@@ -37,6 +41,32 @@
 
 span {
     font-weight: bold;
+}
+
+/* Photos pull right and pull left - START */
+
+.right {
+    float: right;
+}
+
+.left {
+    float: left;
+}
+/* Photos pull right and pull left - END */
+
+.thrift {
+    text-align: center;
+}
+
+.size-340 {
+    height: 340px;
+    padding-left: 408px;
+    padding-right: 408px;
+}
+
+.chap_graphic {
+    padding-top: 8px;
+    padding-left: 100px;
 }
 
 /*********** Styling for Header on Home Page - Finish *************/
