@@ -11,9 +11,10 @@
 /*********** Styling for Header on Home Page - Start *************/
 
 .indivnav {
-    color: darkgrey;
     padding-left: 80px;
     padding-right: 80px;
+    font-size: 22px;
+    color: #b92c28;
 }
 
 .nav {
@@ -56,6 +57,7 @@ span {
 
 .thrift {
     text-align: center;
+    font-size: 18px;
 }
 
 .size-340 {
@@ -69,7 +71,25 @@ span {
     padding-left: 100px;
 }
 
+.involved {
+    text-align: right;
+    padding-top: 10px;
+    padding-right: 70px;
+    font-size: 20px;
+}
+
+.involved_Ans {
+    height: 400px;
+    width: 400px;
+    text-align: center;
+    float: right;
+    padding-top: 15px;
+    padding-right: 100px;
+}
+
 /*********** Styling for Header on Home Page - Finish *************/
+
+
 
 
 
